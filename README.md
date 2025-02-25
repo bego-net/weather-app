@@ -12,8 +12,8 @@ Welcome to the Weather App repository! This project is a web application that pr
 ### Technologies Used 
 
 - **Frontend**: HTML, CSS, JAVASCRIPT
-- **API**: [OpenWeatherMap](https://openweathermap.org/)
-- **Icons**: [Fontawesome](https://fontawesome.com/)
+- **API**:(https://openweathermap.org/)
+- **Icons**: (https://fontawesome.com/)
 
 ### Additional information 
 
@@ -32,7 +32,7 @@ To get a local copy up and running, follow these simple steps.
 ### Prerequisites
 
 - A modern web browser.
-- An API key from [OpenWeatherMap Api](https://home.openweathermap.org/api_keys)
+- An API key from (https://home.openweathermap.org/api_keys)
 
 ### Installation
 
